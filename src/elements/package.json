@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@angular/elements@github:angular/elements-builds#labs/elements",
+        "scope": "@angular",
+        "escapedName": "@angular%2felements",
+        "name": "@angular/elements",
+        "rawSpec": "github:angular/elements-builds#labs/elements",
+        "spec": "github:angular/elements-builds#labs/elements",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:angular/elements-builds.git#labs/elements",
+          "sshUrl": "git+ssh://git@github.com/angular/elements-builds.git#labs/elements",
+          "httpsUrl": "git+https://github.com/angular/elements-builds.git#labs/elements",
+          "gitUrl": "git://github.com/angular/elements-builds.git#labs/elements",
+          "shortcut": "github:angular/elements-builds#labs/elements",
+          "directUrl": "https://raw.githubusercontent.com/angular/elements-builds/labs%2Felements/package.json"
+        }
+      },
+      "D:\\projects\\angular-elements-demo-master"
+    ]
+  ],
+  "_from": "angular/elements-builds#labs/elements",
+  "_id": "@angular/elements@5.1.0-beta.0-21bfaf2",
+  "_inCache": true,
+  "_location": "/@angular/elements",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@angular/elements@github:angular/elements-builds#labs/elements",
+    "scope": "@angular",
+    "escapedName": "@angular%2felements",
+    "name": "@angular/elements",
+    "rawSpec": "github:angular/elements-builds#labs/elements",
+    "spec": "github:angular/elements-builds#labs/elements",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:angular/elements-builds.git#labs/elements",
+      "sshUrl": "git+ssh://git@github.com/angular/elements-builds.git#labs/elements",
+      "httpsUrl": "git+https://github.com/angular/elements-builds.git#labs/elements",
+      "gitUrl": "git://github.com/angular/elements-builds.git#labs/elements",
+      "shortcut": "github:angular/elements-builds#labs/elements",
+      "directUrl": "https://raw.githubusercontent.com/angular/elements-builds/labs%2Felements/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/angular/elements-builds.git#cbe842d027ecd4edbb8bebf7e377ee499e7ee832",
+  "_shasum": "6fa520be6ae351dae4fd8e3c76100a03e54f95c7",
+  "_shrinkwrap": null,
+  "_spec": "@angular/elements@github:angular/elements-builds#labs/elements",
+  "_where": "D:\\projects\\angular-elements-demo-master",
+  "author": {
+    "name": "angular"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "description": "Angular - library for using Angular in a web browser",
+  "devDependencies": {},
+  "es2015": "./esm2015/elements.js",
+  "gitHead": "cbe842d027ecd4edbb8bebf7e377ee499e7ee832",
+  "homepage": "https://github.com/angular/angular#readme",
+  "license": "MIT",
+  "main": "./bundles/elements.umd.js",
+  "module": "./esm5/elements.js",
+  "name": "@angular/elements",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "5.1.0-beta.0-21bfaf2",
+    "@angular/platform-browser": "5.1.0-beta.0-21bfaf2"
+  },
+  "readme": "Angular\r\n=======\r\n\r\nThe sources for this package are in the main [Angular](https://github.com/angular/angular) repo. Please file issues and pull requests against that repo.\r\n\r\nLicense: MIT\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "typings": "./elements.d.ts",
+  "version": "5.1.0-beta.0-21bfaf2"
+}
